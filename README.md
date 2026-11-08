@@ -2,7 +2,7 @@
 
 Astra 直接控制 vs. Astra + 记忆 Harness 在 Franka 上的真机实验方案，对照 RoboMME / RoboMME-Plus 的四类记忆任务。
 
-- 在线页面：部署到 GitHub Pages 后填写地址
+- 在线页面：https://asimfish.github.io/robomme-real/
 - 页面源文件：`index.html`（单文件，没有构建步骤）
 
 ## 更新方法
